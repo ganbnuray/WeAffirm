@@ -11,8 +11,12 @@ This website is a self-practicing platform to help users in their healing journe
 
 ## The Screenshots
 
-![](./screenshot-desktop.png)
-![](./screenshot-mobile.png)
+![](./WeAffirm Home.png)
+![](./WeAffirm Home Selected.png)
+![](./WeAffirm Affirmation.png)
+![](./WeAffirm About Us.png)
+![](./WeAffirm Contacts.png)
+
 
 ## Links
 - [Demo 💥](https://ganbnuray.github.io/WeAffirm/)
