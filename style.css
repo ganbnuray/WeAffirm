@@ -253,3 +253,52 @@ a {
     opacity: 1;
   }
 }
+
+@media (max-width: 980px) {
+  .container {
+    width: 90%;
+    overflow-x: hidden;
+  }
+  .categorybox .options {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: auto;
+  }
+  .categorybox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    margin-block-start: 50px;
+  }
+  .select {
+    text-align: center;
+    width: 100%;
+  }
+  .introtext {
+    line-height: 6em;
+    font-size: 0.7em;
+  }
+  .container p {
+    line-height: 1.4em;
+  }
+  .navbar {
+    display: -ms-flexbox;
+    flex-direction: row;
+    align-items: flex-end;
+  }
+  .navbox ul {
+    padding: 0;
+    padding-bottom: 5px;
+    line-height: 2.2em;
+  }
+  #affirmation {
+    text-align: center;
+  }
+  .aboutusimg::before,
+  .contactsimg::before {
+    background-position: center;
+  }
+}
