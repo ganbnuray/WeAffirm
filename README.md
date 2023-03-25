@@ -11,11 +11,11 @@ This website is a self-practicing platform to help users in their healing journe
 
 ## The Screenshots
 
-![](./WeAffirm Home.png)
-![](./WeAffirm Home Selected.png)
-![](./WeAffirm Affirmation.png)
-![](./WeAffirm About Us.png)
-![](./WeAffirm Contacts.png)
+![WeAffirm Home](./WeAffirm Home.png)
+![WeAffirm Home Selected](./WeAffirm Home Selected.png)
+![WeAffirm Affirmation](./WeAffirm Affirmation.png)
+![WeAffirm About Us](./WeAffirm About Us.png)
+![WeAffirm Contacts](./WeAffirm Contacts.png)
 
 
 ## Links
