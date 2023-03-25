@@ -20,7 +20,7 @@ This website is a self-practicing platform to help users in their healing journe
 
 ## Links
 - [Demo 💥](https://ganbnuray.github.io/WeAffirm/)
-- [Youtube Video]()
+- [Youtube Video](https://youtu.be/YULTwFHsu4s)
 - [Figma Design Pages](https://drive.google.com/file/d/1_8l6VcajF65XNFb-CmFZFJswM120wwG7/view?usp=sharing)
 - [Presentation](https://drive.google.com/file/d/1-eIrs2zdB7mkifo5gk7OaRdHpE3HaFk1/view?usp=sharing)
 
